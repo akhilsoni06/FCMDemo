@@ -21,7 +21,6 @@ public class MainActivity extends AppCompatActivity {
         mBtnNotification.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
-
             }
         });
     }
