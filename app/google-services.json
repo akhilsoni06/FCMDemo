@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "668091605630",
+    "firebase_url": "https://fcm-test-app-e62e2.firebaseio.com",
+    "project_id": "fcm-test-app-e62e2",
+    "storage_bucket": "fcm-test-app-e62e2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:668091605630:android:7b2434c7af2371ac",
+        "android_client_info": {
+          "package_name": "akhil.com.fcmdemo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "668091605630-g0pds0gv92o6im6ig1mf8ilukg7u6urc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDl-OEZ84xFv4yAbes_R6HNK0KNjrCyehw"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
